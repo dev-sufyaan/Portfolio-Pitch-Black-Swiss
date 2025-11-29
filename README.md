@@ -26,28 +26,23 @@
 <div align="center">
 
 ### 🏠 Hero Section
-<!-- Add your screenshot here -->
-![Hero Section](https://via.placeholder.com/1200x600/000000/FFFFFF?text=Hero+Section+Screenshot)
+![Hero Section](https://raw.githubusercontent.com/dev-sufyaan/Portfolio-Pitch-Black-Swiss/main/images/hero-section.png)
 *Immersive 3D hero with reactive elements and flip words animation*
 
-### 👤 About Section  
-<!-- Add your screenshot here -->
-![About Section](https://via.placeholder.com/1200x600/000000/FFFFFF?text=About+Section+Screenshot)
+### 👤 About Section
+![About Section](https://raw.githubusercontent.com/dev-sufyaan/Portfolio-Pitch-Black-Swiss/main/images/about-section.png)
 *Encrypted text reveal with skill tags and glassmorphism effects*
 
 ### 💼 Works Section
-<!-- Add your screenshot here -->
-![Works Section](https://via.placeholder.com/1200x600/000000/FFFFFF?text=Works+Section+Screenshot)
+![Works Section](https://raw.githubusercontent.com/dev-sufyaan/Portfolio-Pitch-Black-Swiss/main/images/works-section.png)
 *Cinema-mode focus cards with smooth hover transitions*
 
 ### ⚙️ Process Timeline
-<!-- Add your screenshot here -->
-![Process Section](https://via.placeholder.com/1200x600/000000/FFFFFF?text=Process+Section+Screenshot)
+![Process Section](https://raw.githubusercontent.com/dev-sufyaan/Portfolio-Pitch-Black-Swiss/main/images/process-section.png)
 *Interactive tracing beam timeline with scroll-based animations*
 
 ### 🎯 Skills Grid
-<!-- Add your screenshot here -->
-![Skills Section](https://via.placeholder.com/1200x600/000000/FFFFFF?text=Skills+Section+Screenshot)
+![Skills Section](https://raw.githubusercontent.com/dev-sufyaan/Portfolio-Pitch-Black-Swiss/main/images/skills-section.png)
 *Bento grid layout with mouse-reactive glowing effects*
 
 </div>
